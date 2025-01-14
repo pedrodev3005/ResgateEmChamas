@@ -45,11 +45,11 @@
 2. Execute o arquivo executavel "game.exe"
 
 # 🌟 Contribua
-**Contribuições são bem-vindas! Se encontrar problemas ou tiver ideias de melhorias, abra uma issue ou envie um pull request.
+**Contribuições são bem-vindas! Se encontrar problemas ou tiver ideias de melhorias, abra uma issue ou envie um pull request.**
 
 ---
 
 # 👩‍💻 Autor
-**Pedro Augusto Gonçalves Lucena**
-**Estudante de Engenharia de Computação - IFPB**
-**Contato: pedrogoncalveslucena@gmail.com**
+- **Pedro Augusto Gonçalves Lucena**
+- **Estudante de Engenharia de Computação - IFPB**
+- **Contato: pedrogoncalveslucena@gmail.com**
