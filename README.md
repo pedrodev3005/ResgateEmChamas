@@ -47,8 +47,9 @@
 # 🌟 Contribua
 **Contribuições são bem-vindas! Se encontrar problemas ou tiver ideias de melhorias, abra uma issue ou envie um pull request.
 
+---
 
-#👩‍💻 Autor
-**Pedro Augusto Gonçalves Lucena
-**Estudante de Engenharia de Computação - IFPB
-**Contato: pedrogoncalveslucena@gmail.com
+# 👩‍💻 Autor
+**Pedro Augusto Gonçalves Lucena**
+**Estudante de Engenharia de Computação - IFPB**
+**Contato: pedrogoncalveslucena@gmail.com**
