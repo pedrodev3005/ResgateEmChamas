@@ -52,4 +52,4 @@
 # 👩‍💻 Autor
 - **Pedro Augusto Gonçalves Lucena**
 - **Estudante de Engenharia de Computação - IFPB**
-- **Contato: pedrogoncalveslucena@gmail.com**
+- **Contato:** [pedrogoncalveslucena@gmail.com](mailto:pedrogoncalveslucena@gmail.com)
