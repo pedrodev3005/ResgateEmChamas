@@ -44,6 +44,8 @@
    git clone https://github.com/seu-usuario/MeuJogoPOO.git
 2. Execute o arquivo executavel "game.exe"
 
+---
+
 # 🌟 Contribua
 **Contribuições são bem-vindas! Se encontrar problemas ou tiver ideias de melhorias, abra uma issue ou envie um pull request.**
 
