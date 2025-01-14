@@ -1,7 +1,7 @@
 # 🔥 Resgate em Chamas
 
 **Projeto Final da Cadeira de Programação Orientada a Objetos (POO)**  
-*Faculdade de Engenharia da Computação*
+*Faculdade de Engenharia de Computação (ifpb)*
 
 ---
 
@@ -18,18 +18,18 @@
 
 ## ⚙️ Tecnologias Utilizadas
 
-- **Linguagem:** [Insira a linguagem de programação usada]
-- **Engine:** [Nome da engine disponibilizada pelo professor]
+- **Linguagem:** [C++]
+- **Engine:** (https://github.com/victorHSS/Cpp-ASCII-Game-Engine)
 - **Paradigma:** Programação Orientada a Objetos (POO)
 
 ---
 
 ## 🛠️ Funcionalidades
 
-- **Sistema de Resgate:** Cada apartamento possui moradores com diferentes dificuldades de resgate.
-- **Propagação do Fogo:** O fogo se espalha de forma dinâmica, aumentando o desafio.
-- **Pontuação:** O número de vidas salvas define sua pontuação final.
-- **Gráficos e Som:** [Adicione detalhes como pixel art, trilha sonora, etc.]
+- **Sistema de Resgate:** Ao se aproximar do morador, o morador é resgatado.
+- **Dificuldade:** Caso o bombeiro não seja rápido o suficiente, os moradores irão morrer e será fim de jogo.
+- **Fases:** As fases vão ficando cada vez mais difíceis, adicionando a necessidade de um extintor para salvar o morador.
+
 
 ---
 
